@@ -25,4 +25,4 @@ spec:
         name: app-deployment
         image: harbor.dev.afsmtddso.com/sbrown-harbor-project/app:971c881-3ede7f1
         ports:
-        - containerPort: 5000
+        - containerPort: 5000 
