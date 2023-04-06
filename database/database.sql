@@ -1,4 +1,4 @@
---
+--Stacie's comment
 -- PostgreSQL database dump
 --
 
